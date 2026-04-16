@@ -2,113 +2,106 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Futuristic Data Animation" width="100%" />
 </p>
 
-<h1 align="center">📊 Hello, I'm Aditya Anand</h1>
+<h1 align="center">📊 Aditya Anand</h1>
 
 <p align="center">
-🎓 Electronics & Communication Graduate | 📈 Aspiring Data Analyst | 💡 Data & Analytics Enthusiast  
+Data Analyst | SQL • Python • Power BI | Business & Risk Analytics  
 </p>
 
 <p align="center">
-  <a href="https://github.com/adityadothub"><img src="https://img.shields.io/github/followers/adityadothub?label=Follow&style=social" alt="GitHub Follow" /></a>
-  <img src="https://komarev.com/ghpvc/?username=adityadothub&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://github.com/adityadothub"><img src="https://img.shields.io/github/followers/adityadothub?label=Follow&style=social" /></a>
+  <img src="https://komarev.com/ghpvc/?username=adityadothub&style=flat-square&color=blue" />
 </p>
 
 ---
 
-## 🧑‍🎓 About Me
+## 🧑‍💼 About Me
 
-- 🎓 **Electronics & Communication Engineering Graduate**
-- 📍 Based in **Bengaluru, Karnataka**
-- 📊 Aspiring **Data Analyst** with hands-on experience in **Python, SQL, Excel, Power BI**
-- 📈 Skilled in **Data Cleaning, Exploratory Data Analysis (EDA), KPI Reporting, and Dashboard Development**
-- 🧰 Comfortable working with **GitHub, VS Code, Jupyter Notebook, and Google Colab**
-- 🚀 Actively building **data analytics projects and dashboards**
-
----
-
-## 🏆 HackerRank Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-2%20Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python Badge" />
-  <img src="https://img.shields.io/badge/SQL-2%20Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Badge" />
-</p>
-
-- 🌟 **2⭐ Python** badge on HackerRank  
-- 🌟 **2⭐ SQL** badge on HackerRank  
-- 🧠 Practicing coding challenges and improving problem-solving skills  
-- 🚀 Continuously leveling up in data analysis and querying
-
-🔗 [Visit my HackerRank Profile](https://www.hackerrank.com/adityanand208)
+- 📊 Data Analyst skilled in **SQL, Python, and Power BI**
+- 📈 Experienced in **EDA, KPI analysis, and dashboard development**
+- ⚙️ Strong understanding of **data validation, ETL workflows, and business analytics**
+- 🧠 Focused on **risk analytics, customer behavior, and decision-driven insights**
+- 🚀 Leveraging **Generative AI** to automate and enhance analytical workflows
 
 ---
 
-## 💼 Internship Experience
+## 💼 Experience
 
-- 🏭 **BHEL (Bharat Heavy Electricals Limited) — BAP Division, EC&I Department**
-  - 📘 **Project**: *Study of Design of Sewage Treatment Plant in Power Plants*
-  - Analyzed plant design workflows and instrumentation systems to understand operational efficiency and engineering data processes.
+### 🏭 BHEL (Bharat Heavy Electricals Limited) — Summer Intern
 
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming & Data Analysis
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 📊 Data Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### ⚙️ Tools & Platforms
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
+- Analyzed **treatment plant workflows and capacity utilization** to identify operational inefficiencies  
+- Evaluated **EC&I system schematics** to understand process interdependencies  
+- Delivered **structured technical insights and documentation** to support decision-making  
 
 ---
 
 ## 📁 Projects
 
-### 💳 Credit Delinquency Analysis
-🔗 https://github.com/adityadothub/credit-delinquency-analysis  
+### 👥 Customer Segmentation & Risk Profiling
 
-**Tech Stack:** Python, SQL, Pandas, Power BI  
-
-- Analyzed financial transaction and repayment datasets to identify **credit delinquency risk indicators**.  
-- Performed **data cleaning and exploratory data analysis (EDA)** to detect patterns in repayment behavior and payment delays.  
-- Developed **KPI-based metrics** such as delinquency rate, utilization ratio, and payment delay trends.  
-- Built **interactive Power BI dashboards** to visualize credit risk insights and support **data-driven financial decision-making**.
-
----
-
-### 👥 Customer Segmentation
 🔗 https://github.com/adityadothub/customer-segmentation  
 
-**Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib  
+**Tech Stack:** Python, SQL, Power BI  
 
-- Conducted **customer behavior analysis** using transaction data.  
-- Applied **K-Means clustering** to segment customers based on purchasing patterns.  
-- Performed **data preprocessing, feature scaling, and visualization** to identify meaningful clusters.  
-- Generated insights to support **targeted marketing strategies and customer retention initiatives**.
+- Segmented customers into **4 distinct groups using RFM analysis**  
+- Identified **~30% lower transaction frequency** in low-activity segments indicating higher risk  
+- Built **interactive Power BI dashboard** to track KPIs, segmentation, and risk trends  
+- Used **SQL for preprocessing** and optimized data pipeline workflows  
+- Leveraged **Generative AI** for automated insight generation  
 
 ---
 
-## 📊 GitHub Stats
+### 💳 Financial Risk Analytics Simulation (Tata iQ - Forage)
+
+- Analyzed repayment behavior to detect **delayed payments and irregular transactions**  
+- Developed **rule-based risk indicators** for early identification of high-risk customers  
+- Compared behavioral patterns between **high-risk vs low-risk segments**  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & Analytics
+- Python (Pandas, NumPy)  
+- SQL (Joins, Window Functions, Aggregations)  
+
+### 📊 Visualization & Reporting
+- Power BI  
+- Excel  
+
+### ⚙️ Data & Analytics
+- ETL Pipelines  
+- Data Cleaning & Validation  
+- KPI Analysis  
+- Dashboard Development  
+
+### 🤖 Advanced
+- Generative AI (Prompt Engineering, Automation)  
+
+---
+
+## 🏆 Achievements
+
+- ⭐ **4⭐ SQL on HackerRank**  
+- 🏅 Gold Medalist — Inter-University Football & Cricket  
+
+---
+
+## 🎓 Education
+
+**B.Tech – Electronics & Communication Engineering**  
+GITAM University (2021 – 2025)  
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityadothub&show_icons=true&theme=tokyonight" alt="Aditya's GitHub Stats" />
+  <a href="https://github.com/adityadothub"><img src="https://img.shields.io/badge/GitHub-adityadothub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/aditya-anand-9093bb36a"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Anand-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:anandaditya2125@gmail.com"><img src="https://img.shields.io/badge/Email-anandaditya2125@gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://github.com/adityadothub"><img src="https://img.shields.io/badge/GitHub-adityadothub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/aditya-anand-398845284"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:adityanand208@gmail.com"><img src="https://img.shields.io/badge/Email-adityanand208@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-⭐ _“Jai Hanuman gyan gun sagar, Jai Kapis tihun lok ujagar.”_
+⭐ _Turning data into actionable insights for better decisions._
