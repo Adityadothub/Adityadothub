@@ -1,67 +1,71 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Futuristic Data Animation" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=header&text=Aditya%20Anand&fontSize=35&fontColor=ffffff" />
 </p>
 
-<h1 align="center">📊 Aditya Anand</h1>
+<h3 align="center">
+Aspiring Data Analyst | SQL • Python • Power BI  
+</h3>
 
 <p align="center">
-Data Analyst | SQL • Python • Power BI | Business & Risk Analytics  
-</p>
-
-<p align="center">
-  <a href="https://github.com/adityadothub"><img src="https://img.shields.io/github/followers/adityadothub?label=Follow&style=social" /></a>
-  <img src="https://komarev.com/ghpvc/?username=adityadothub&style=flat-square&color=blue" />
+Focused on Risk Analytics, Customer Behavior, and Data-Driven Decision Making  
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 📊 Data Analyst skilled in **SQL, Python, and Power BI**
-- 📈 Experienced in **EDA, KPI analysis, and dashboard development**
-- ⚙️ Strong understanding of **data validation, ETL workflows, and business analytics**
-- 🧠 Focused on **risk analytics, customer behavior, and decision-driven insights**
-- 🚀 Leveraging **Generative AI** to automate and enhance analytical workflows
+- Data analyst focused on extracting actionable insights from structured datasets  
+- Strong in SQL-based data manipulation and Python-driven analysis  
+- Experience building dashboards for KPI tracking and business performance  
+- Interested in risk analytics, customer behavior, and decision systems  
+- Continuously expanding skillset by exploring new tools and analytical techniques  
 
 ---
 
-## 💼 Experience
+## 🎯 Aspiring Roles
 
-### 🏭 BHEL (Bharat Heavy Electricals Limited) — Summer Intern
+- Data Analyst  
+- Risk Analyst  
+- Business Analyst  
+- Data Scientist (learning and exploring)  
 
-- Analyzed **treatment plant workflows and capacity utilization** to identify operational inefficiencies  
-- Evaluated **EC&I system schematics** to understand process interdependencies  
-- Delivered **structured technical insights and documentation** to support decision-making  
+> Expanding into Generative AI applications for data analysis and workflow automation  
 
 ---
 
 ## 📁 Projects
 
-### 👥 Customer Segmentation & Risk Profiling
-
+### Customer Segmentation & Risk Profiling  
 🔗 https://github.com/adityadothub/customer-segmentation  
-
-**Tech Stack:** Python, SQL, Power BI  
-
-- Segmented customers into **4 distinct groups using RFM analysis**  
-- Identified **~30% lower transaction frequency** in low-activity segments indicating higher risk  
-- Built **interactive Power BI dashboard** to track KPIs, segmentation, and risk trends  
-- Used **SQL for preprocessing** and optimized data pipeline workflows  
-- Leveraged **Generative AI** for automated insight generation  
+- Segmented customers using RFM analysis into 4 distinct groups  
+- Identified ~30% lower transaction frequency in high-risk segments  
+- Built interactive Power BI dashboard for KPI and segment tracking  
+- Performed data preprocessing using SQL and Python  
+- Derived actionable insights for customer targeting and risk monitoring  
 
 ---
 
-### 💳 Financial Risk Analytics Simulation (Tata iQ - Forage)
+### Financial Risk Analytics Simulation  
+- Analyzed repayment behavior to identify delayed and irregular transactions  
+- Developed rule-based indicators for early risk detection  
+- Compared behavioral patterns across high-risk and low-risk segments  
+- Structured findings to support risk assessment decisions  
 
-- Analyzed repayment behavior to detect **delayed payments and irregular transactions**  
-- Developed **rule-based risk indicators** for early identification of high-risk customers  
-- Compared behavioral patterns between **high-risk vs low-risk segments**  
+---
+
+## 💼 Work Experience
+
+### BHEL (Bharat Heavy Electricals Limited) — Summer Intern  
+- Studied the design of sewage treatment plant systems within a power plant environment  
+- Analyzed operational and capacity data to identify inefficiencies in treatment processes  
+- Interpreted EC&I system schematics to understand process flow and interdependencies  
+- Documented structured insights to support process evaluation and decision-making  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming & Analytics
+### 👨‍💻 Programming & Data Analysis
 - Python (Pandas, NumPy)  
 - SQL (Joins, Window Functions, Aggregations)  
 
@@ -69,39 +73,64 @@ Data Analyst | SQL • Python • Power BI | Business & Risk Analytics
 - Power BI  
 - Excel  
 
-### ⚙️ Data & Analytics
-- ETL Pipelines  
-- Data Cleaning & Validation  
+### 📈 Core Analytics
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
 - KPI Analysis  
 - Dashboard Development  
 
-### 🤖 Advanced
-- Generative AI (Prompt Engineering, Automation)  
+### 🤖 Machine Learning
+- Linear Regression  
+- Logistic Regression  
+- Decision Trees  
+- K-Means Clustering  
+- Natural Language Processing (NLP)  
 
 ---
 
-## 🏆 Achievements
+## ⚙️ Tools & Platforms
 
-- ⭐ **4⭐ SQL on HackerRank**  
-- 🏅 Gold Medalist — Inter-University Football & Cricket  
+- Git & GitHub  
+- Jupyter Notebook  
+- Google Colab  
+- VS Code  
+- Postman (currently learning)  
 
 ---
 
-## 🎓 Education
+## 🚀 Currently Exploring
 
-**B.Tech – Electronics & Communication Engineering**  
-GITAM University (2021 – 2025)  
+- Deep Learning fundamentals (neural networks, model architectures)  
+- Preparing to transition into Generative AI applications for data analysis and automation  
+
+---
+
+## 💻 Coding Profiles
+
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/ambasthaaditya91">
+    <img src="https://img.shields.io/badge/HackerRank-4⭐%20SQL-2EC866?style=for-the-badge&logo=hackerrank" />
+  </a>
+  <a href="https://leetcode.com/u/JvC04eoj02/">
+    <img src="https://img.shields.io/badge/LeetCode-SQL%20Practice-FFA116?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+> Planning to actively engage on Codeforces and CodeChef to strengthen problem-solving skills  
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/adityadothub"><img src="https://img.shields.io/badge/GitHub-adityadothub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/aditya-anand-9093bb36a"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Anand-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:anandaditya2125@gmail.com"><img src="https://img.shields.io/badge/Email-anandaditya2125@gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aditya-anand-9093bb36a">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Anand-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:anandaditya2125@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-⭐ _Turning data into actionable insights for better decisions._
+⭐ Turning data into actionable insights for better decisions.
