@@ -84,31 +84,33 @@ Focused on Risk Analytics, Customer Behavior, and Data-Driven Decision Making
 </p>
 
 ### 📈 Core Analytics
-<p>
-  <img src="https://img.shields.io/badge/Data%20Cleaning-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDA-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KPI%20Analysis-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dashboarding-teal?style=for-the-badge"/>
-</p>
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- KPI Analysis  
+- Dashboard Development  
 
 ### 🤖 Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Linear%20Regression-lightgrey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Logistic%20Regression-grey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Decision%20Trees-darkgrey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/K--Means-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-brown?style=for-the-badge"/>
-</p>
+- Linear Regression  
+- Logistic Regression  
+- Decision Trees  
+- K-Means Clustering  
+- Natural Language Processing (NLP)  
 
 ---
 
 ## ⚙️ Tools & Platforms
 
-- Git & GitHub  
-- Jupyter Notebook  
-- Google Colab  
-- VS Code  
-- Postman (currently learning)  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py" /> Jupyter Notebook & Google Colab  
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" /> <em>Currently Learning</em>  
+</p>
 
 ---
 
