@@ -10,6 +10,10 @@ Aspiring Data Analyst | SQL • Python • Power BI
 Focused on Risk Analytics, Customer Behavior, and Data-Driven Decision Making  
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityadothub&style=flat-square&color=blue" />
+</p>
+
 ---
 
 ## 🧑‍💼 About Me
@@ -66,25 +70,35 @@ Focused on Risk Analytics, Customer Behavior, and Data-Driven Decision Making
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming & Data Analysis
-- Python (Pandas, NumPy)  
-- SQL (Joins, Window Functions, Aggregations)  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+</p>
 
 ### 📊 Visualization & Reporting
-- Power BI  
-- Excel  
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 ### 📈 Core Analytics
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- KPI Analysis  
-- Dashboard Development  
+<p>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDA-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KPI%20Analysis-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboarding-teal?style=for-the-badge"/>
+</p>
 
 ### 🤖 Machine Learning
-- Linear Regression  
-- Logistic Regression  
-- Decision Trees  
-- K-Means Clustering  
-- Natural Language Processing (NLP)  
+<p>
+  <img src="https://img.shields.io/badge/Linear%20Regression-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Logistic%20Regression-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Decision%20Trees-darkgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/K--Means-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-brown?style=for-the-badge"/>
+</p>
 
 ---
 
