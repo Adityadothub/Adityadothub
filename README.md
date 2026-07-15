@@ -18,11 +18,11 @@ Focused on Risk Analytics, Customer Behavior, and Data-Driven Decision Making
 
 ## 🧑‍💼 About Me
 
-- Data analyst focused on extracting actionable insights from structured datasets  
-- Strong in SQL-based data manipulation and Python-driven analysis  
-- Experience building dashboards for KPI tracking and business performance  
-- Interested in risk analytics, customer behavior, and decision systems  
-- Continuously expanding skillset by exploring new tools and analytical techniques  
+- Data analyst focused on extracting actionable insights from structured datasets.
+- Strong in SQL-based data manipulation and Python-driven analysis.
+- Experience building dashboards for KPI tracking and business performance. 
+- Interested in risk analytics, customer behavior, and decision systems. 
+- Continuously expanding skillset by exploring new tools and analytical techniques. 
 
 ---
 
